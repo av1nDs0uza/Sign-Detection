@@ -1,2 +1,2 @@
 # Sign-Detection
- Sing Language detection 
+ Sign Language detection
